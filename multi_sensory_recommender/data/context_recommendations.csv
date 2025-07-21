@@ -1,0 +1,154 @@
+weather,time_of_day,emotion,movie,music,food
+rainy,night,angry,The Dark Knight,Heavy Metal,Spicy Curry
+clear,morning,fear,Parasite,Experimental,Herbal Tea
+clouds,afternoon,disgust,Amélie,Alternative,Salad
+rainy,evening,surprise,Forrest Gump,Show tunes,Ice cream
+clear,night,happy,Up,Pop classics,Apple pie
+clouds,morning,sad,Inside Out,Soft piano playlist,Hot chocolate
+rainy,afternoon,neutral,Interstellar,Lo-fi beats,Tea and cookies
+clear,evening,angry,The Road,Dark synth,Chili
+clouds,night,fear,The Revenant,Dark ambient,Steak
+rainy,morning,disgust,The Green Mile,Blues,Toast
+clear,afternoon,surprise,The Incredibles,Upbeat pop,Pancakes
+clouds,evening,happy,Julie & Julia,Latin pop,Tacos
+rainy,night,sad,The Pianist,Classical,Hot soup
+clear,morning,neutral,Finding Nemo,Kids pop,Cereal
+clouds,afternoon,angry,The Prestige,Alternative,Stir fry
+rainy,evening,fear,127 Hours,Minimalist,Hot soup
+clear,night,disgust,The Shape of Water,Soundtracks,Herbal tea
+clouds,morning,surprise,The Secret Garden,Retro pop,Ice cream
+rainy,afternoon,happy,The Hundred-Foot Journey,World music,Samosa
+clear,evening,sad,The Lovely Bones,Acoustic blues,Stew
+clouds,night,neutral,The Terminal,Chillhop,Milkshake
+rainy,morning,angry,The Blind Side,Country,Oatmeal
+clear,afternoon,fear,The Book Thief,Orchestral,Toast
+clouds,evening,disgust,The Artist,Alternative,Stir fry
+rainy,night,surprise,The Help,Soft pop,Spaghetti
+clear,morning,happy,The Boy in the Striped Pajamas,Melancholy piano,Muffins
+clouds,afternoon,sad,The Perks of Being a Wallflower,Indie,Chili
+rainy,evening,neutral,Moneyball,Modern rock,Sandwich
+clear,night,angry,The Intern,Pop,Wrap
+clouds,morning,fear,Matilda,Children's music,Fruit salad
+rainy,afternoon,disgust,Room,Soft pop,Spaghetti
+clear,evening,surprise,The King's Speech,Instrumental,Lasagna
+clouds,night,happy,Good Will Hunting,Classic rock,Hot cocoa
+rainy,morning,sad,The Social Network,Modern rock,Sandwich
+clear,afternoon,neutral,The Theory of Everything,Instrumental,Lasagna
+clouds,evening,angry,The Grand Budapest Hotel,Retro pop,Ice cream
+rainy,night,fear,The Fault in Our Stars,Soft pop,Spaghetti
+clear,morning,disgust,Bridge to Terabithia,Melancholy piano,Muffins
+clouds,afternoon,surprise,Chef,Latin pop,Tacos
+rainy,evening,happy,Slumdog Millionaire,Bollywood hits,Samosa
+clear,night,sad,The Mask,90s dance,Ice cream
+clouds,morning,neutral,Hidden Figures,Inspirational,Wrap
+rainy,afternoon,angry,Schindler's List,Orchestral,Toast
+clear,evening,fear,The Prestige,Alternative,Stir fry
+clouds,night,disgust,The Road,Minimalist,Hot chocolate
+rainy,morning,surprise,Life of Pi,World music,Spring rolls
+clear,afternoon,happy,Finding Nemo,Kids pop,Cereal
+clouds,evening,sad,The Imitation Game,Electronic,Salad
+rainy,night,neutral,Good Will Hunting,Classic rock,Hot cocoa
+clear,morning,angry,The Sound of Music,Musicals,Apple pie
+clouds,afternoon,fear,The Green Mile,Blues,Toast
+rainy,evening,disgust,The King's Speech,Instrumental,Lasagna
+clear,night,surprise,The Big Short,Chillhop,Milkshake
+clouds,morning,happy,The Intern,Pop,Wrap
+rainy,afternoon,sad,The Blind Side,Country,Oatmeal
+clear,evening,neutral,The Revenant,Dark ambient,Steak
+clouds,night,angry,The Shape of Water,Soundtracks,Herbal tea
+rainy,morning,fear,Room,Soft pop,Spaghetti
+clear,afternoon,disgust,The Incredibles,Upbeat pop,Pancakes
+clouds,evening,surprise,Julie & Julia,Latin pop,Tacos
+rainy,night,happy,The Pursuit of Happyness,Classical,Hot soup
+clear,morning,sad,The Road,Dark synth,Chili
+clouds,afternoon,neutral,The Martian,Science podcasts,Bagel
+rainy,evening,angry,The Hundred-Foot Journey,World music,Samosa
+clear,night,fear,The Terminal,Chillhop,Milkshake
+clouds,morning,disgust,The Lovely Bones,Acoustic blues,Stew
+rainy,afternoon,surprise,The Book Thief,Orchestral,Toast
+clear,evening,happy,The Artist,Alternative,Stir fry
+clouds,night,sad,The Secret Garden,Retro pop,Ice cream
+rainy,morning,neutral,The Help,Soft pop,Spaghetti
+clear,afternoon,angry,The Boy in the Striped Pajamas,Melancholy piano,Muffins
+clouds,evening,fear,Julie & Julia,Latin pop,Tacos
+rainy,night,disgust,The Pursuit of Happyness,Classical,Hot soup
+clear,morning,surprise,The Road,Dark synth,Chili
+clouds,afternoon,happy,The Martian,Science podcasts,Bagel
+rainy,evening,sad,The Secret Life of Walter Mitty,Upbeat pop,Pancakes
+clear,night,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clouds,morning,angry,Interstellar,Lo-fi beats,Tea and cookies
+rainy,afternoon,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clear,evening,disgust,Parasite,Experimental,Herbal Tea
+clouds,night,surprise,Amélie,Alternative,Salad
+rainy,morning,happy,Forrest Gump,Show tunes,Ice cream
+clear,afternoon,sad,Up,Pop classics,Apple pie
+clouds,evening,neutral,Inside Out,Soft piano playlist,Hot chocolate
+rainy,night,angry,Interstellar,Lo-fi beats,Tea and cookies
+clear,morning,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clouds,afternoon,disgust,Parasite,Experimental,Herbal Tea
+rainy,evening,surprise,Amélie,Alternative,Salad
+clear,night,happy,Forrest Gump,Show tunes,Ice cream
+clouds,morning,sad,Up,Pop classics,Apple pie
+rainy,afternoon,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clear,evening,angry,Interstellar,Lo-fi beats,Tea and cookies
+clouds,night,fear,The Dark Knight,Heavy Metal,Spicy Curry
+rainy,morning,disgust,Parasite,Experimental,Herbal Tea
+clear,afternoon,surprise,Amélie,Alternative,Salad
+clouds,evening,happy,Forrest Gump,Show tunes,Ice cream
+rainy,night,sad,Up,Pop classics,Apple pie
+clear,morning,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clouds,afternoon,angry,Interstellar,Lo-fi beats,Tea and cookies
+rainy,evening,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clear,night,disgust,Parasite,Experimental,Herbal Tea
+clouds,morning,surprise,Amélie,Alternative,Salad
+rainy,afternoon,happy,Forrest Gump,Show tunes,Ice cream
+clear,evening,sad,Up,Pop classics,Apple pie
+clouds,night,neutral,Inside Out,Soft piano playlist,Hot chocolate
+rainy,morning,angry,Interstellar,Lo-fi beats,Tea and cookies
+clear,afternoon,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clouds,evening,disgust,Parasite,Experimental,Herbal Tea
+rainy,night,surprise,Amélie,Alternative,Salad
+clear,morning,happy,Forrest Gump,Show tunes,Ice cream
+clouds,afternoon,sad,Up,Pop classics,Apple pie
+rainy,evening,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clear,night,angry,Interstellar,Lo-fi beats,Tea and cookies
+clouds,morning,fear,The Dark Knight,Heavy Metal,Spicy Curry
+rainy,afternoon,disgust,Parasite,Experimental,Herbal Tea
+clear,evening,surprise,Amélie,Alternative,Salad
+clouds,night,happy,Forrest Gump,Show tunes,Ice cream
+rainy,morning,sad,Up,Pop classics,Apple pie
+clear,afternoon,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clouds,evening,angry,Interstellar,Lo-fi beats,Tea and cookies
+rainy,night,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clear,morning,disgust,Parasite,Experimental,Herbal Tea
+clouds,afternoon,surprise,Amélie,Alternative,Salad
+rainy,evening,happy,Forrest Gump,Show tunes,Ice cream
+clear,night,sad,Up,Pop classics,Apple pie
+clouds,morning,neutral,Inside Out,Soft piano playlist,Hot chocolate
+rainy,afternoon,angry,Interstellar,Lo-fi beats,Tea and cookies
+clear,evening,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clouds,night,disgust,Parasite,Experimental,Herbal Tea
+rainy,morning,surprise,Amélie,Alternative,Salad
+clear,afternoon,happy,Forrest Gump,Show tunes,Ice cream
+clouds,evening,sad,Up,Pop classics,Apple pie
+rainy,night,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clear,morning,angry,Interstellar,Lo-fi beats,Tea and cookies
+clouds,afternoon,fear,The Dark Knight,Heavy Metal,Spicy Curry
+rainy,evening,disgust,Parasite,Experimental,Herbal Tea
+clear,night,surprise,Amélie,Alternative,Salad
+clouds,morning,happy,Forrest Gump,Show tunes,Ice cream
+rainy,afternoon,sad,Up,Pop classics,Apple pie
+clear,evening,neutral,Inside Out,Soft piano playlist,Hot chocolate
+clouds,night,angry,Interstellar,Lo-fi beats,Tea and cookies
+rainy,morning,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clear,afternoon,disgust,Parasite,Experimental,Herbal Tea
+clouds,evening,surprise,Amélie,Alternative,Salad
+rainy,night,happy,Forrest Gump,Show tunes,Ice cream
+clear,morning,sad,Up,Pop classics,Apple pie
+clouds,afternoon,neutral,Inside Out,Soft piano playlist,Hot chocolate
+rainy,evening,angry,Interstellar,Lo-fi beats,Tea and cookies
+clear,night,fear,The Dark Knight,Heavy Metal,Spicy Curry
+clouds,morning,disgust,Parasite,Experimental,Herbal Tea
+rainy,afternoon,surprise,Amélie,Alternative,Salad
+clear,evening,happy,Forrest Gump,Show tunes,Ice cream
+clouds,night,sad,Up,Pop classics,Apple pie 
