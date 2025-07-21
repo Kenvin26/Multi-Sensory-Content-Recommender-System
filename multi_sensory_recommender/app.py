@@ -33,10 +33,17 @@ st.markdown("""
 Welcome! Get personalized movie, music, and food recommendations based on your mood, weather, and time of day.
 """)
 
-OPENWEATHER_API_KEY = "657ce36dc08cd81b26b5fdd0b9b5e599"
+OPENWEATHER_API_KEY = st.secrets.get("OPENWEATHER_API_KEY")
+if not OPENWEATHER_API_KEY:
+    st.error("OpenWeather API key not found. Please add it to your Streamlit secrets.")
+    st.stop()
 
 # --- TMDB API Connectivity Test ---
-TMDB_API_KEY = "3dcfd79acd5d971c4083d2a04e1a3f9b"
+TMDB_API_KEY = st.secrets.get("TMDB_API_KEY")
+if not TMDB_API_KEY:
+    st.error("TMDB API key not found. Please add it to your Streamlit secrets.")
+    st.stop()
+
 tmdb_test_url = "https://api.themoviedb.org/3/search/movie"
 tmdb_test_params = {"api_key": TMDB_API_KEY, "query": "happy"}
 try:
